@@ -1,4 +1,6 @@
 console.log("hello world")
 console.log("learning git")
 
-// comment in the second branch
+// comments in main branch
+
+console.log("git rebase")
